@@ -11,11 +11,9 @@ st.title('Parcial 1 - Empleados')
 
 sidebar = st.sidebar
 
-st.header('Integrantes:')
-st.subheader('Irais Aguirre Valente')
-st.subheader('Judith Maldonado Garcia')
+st.header('Diego Ivan Perez Conde')
 st.subheader('ISW 602')
-st.text('Aplicación web encargada de analizar los dados recopilados del archivo CVS Employees.cvs')
+st.text('Aplicación web encargada de analizar los dados recopilados del archivo Employees.cvs')
 
 st.markdown("___")
 
